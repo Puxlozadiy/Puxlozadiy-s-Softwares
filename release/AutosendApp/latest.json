@@ -1,5 +1,5 @@
 {
-    "version": "v1.2.7",
+    "version": "v1.2.8",
     "notes": "Test version",
     "pub_date": "2023-03-28T19:25:57Z",
     "platforms": {
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjBYSlh2a1M4dWRJWkVUdlpUak5hYW94WC9FanVaYWlOV2RVcGpxQXNzd1kvVFQyTStiRTdtUFRnMzNadmNuU2pwTjVCemVVZU9lZ0g2TzdJZWNFQlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5OTkzNjY1CWZpbGU6QXV0b3NlbmRBcHBfMS4yLjdfeDY0X2VuLVVTLm1zaS56aXAKdnpGVWgrblVpNmxwQUhuRlI0SnNlUU0rcUFUZmZKd01weWpCaCtzR0VzZWwyYjA3VGpUVWp1cmh4S0I3Q09oRkp5M3Z4TG5lZXZpTVJ5cTB4NGhtQ2c9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.2.7/AutosendApp_1.2.7_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjRmS3JUYysyc012MmtUUHNidHp0b2lYNGFSYjVrenlUQlpnMVRJVHNJbVNoMEtCNFFZNEgrbE02ZmdmamVqd3NjaVpOYlBxbjlnWjFwaElOSnBLU0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5OTk1ODg5CWZpbGU6QXV0b3NlbmRBcHBfMS4yLjhfeDY0X2VuLVVTLm1zaS56aXAKOU1nbER1ZU9VZmw1WmxnNzJpUnhxeVFrZHRseHpyM1h1N1RhWWU2SEVIbmY2bE5TbE13NEUxUU5RM2ZwRTg3Z01BYjNSZk9hT25IQThsOU1XSiszQ2c9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.2.8/AutosendApp_1.2.8_x64_en-US.msi.zip"
       }
     }
   }
