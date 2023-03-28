@@ -1,0 +1,23 @@
+{
+    "version": "v1.2.5",
+    "notes": "Test version",
+    "pub_date": "2023-06-22T19:25:57Z",
+    "platforms": {
+      "darwin-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRndLRFVlZTlRSE1YWm1ja3dlNU9YdUF5NzBiMGtkTXdqekovT0pRZGVBTVNhUVZnSzNLSXRLekg4Z09xYjNzazI1cVFscDlIeXVEVFpWZ2tVRi9lcXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5OTkxNjcxCWZpbGU6QXV0b3NlbmRBcHBfMS4yLjVfeDY0X2VuLVVTLm1zaS56aXAKTkdrYUZURm1Rb0R1R1FhZ0I1RGZ4dEhQZFFZYk9XN08xcUUvN0pRSXBhR2xIWEFJUDdTK1RyN0V0dFQ5N29zM1ROdGZrbjdNSWMwMDIzK1pabnNtQlE9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/blob/main/release/AutosendApp/windows/1.2.5/AutosendApp_1.2.5_x64_en-US.msi.zip"
+      },
+      "darwin-aarch64": {
+        "signature": "Content of app.tar.gz.sig",
+        "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-aarch64.app.tar.gz"
+      },
+      "linux-x86_64": {
+        "signature": "Content of app.AppImage.tar.gz.sig",
+        "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
+      },
+      "windows-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRndLRFVlZTlRSE1YWm1ja3dlNU9YdUF5NzBiMGtkTXdqekovT0pRZGVBTVNhUVZnSzNLSXRLekg4Z09xYjNzazI1cVFscDlIeXVEVFpWZ2tVRi9lcXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5OTkxNjcxCWZpbGU6QXV0b3NlbmRBcHBfMS4yLjVfeDY0X2VuLVVTLm1zaS56aXAKTkdrYUZURm1Rb0R1R1FhZ0I1RGZ4dEhQZFFZYk9XN08xcUUvN0pRSXBhR2xIWEFJUDdTK1RyN0V0dFQ5N29zM1ROdGZrbjdNSWMwMDIzK1pabnNtQlE9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/blob/main/release/AutosendApp/windows/1.2.5/AutosendApp_1.2.5_x64_en-US.msi.zip"
+      }
+    }
+  }
