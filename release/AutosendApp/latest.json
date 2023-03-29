@@ -1,6 +1,6 @@
 {
-    "version": "v1.2.6",
-    "notes": "- Третье тестовое обновление",
+    "version": "v1.2.7",
+    "notes": "- Случайно поменял местами кнопки 'Удалить' и 'Включить'.",
     "pub_date": "2023-03-29T19:25:57Z",
     "platforms": {
       "darwin-x86_64": {
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjVEWnVQRmFaMVo4cUxEdnYyNVUxdnJ3RUVoMFpBMUdOOENJRyswbHJCWGlqelRzNURtWmcrak9rcE03dmFoN1p6VkVrYmlENXdmclV5RDhVKzJGZWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMDc4NTIzCWZpbGU6QXV0b3NlbmRBcHBfMS4yLjZfeDY0X2VuLVVTLm1zaS56aXAKMnZMdlhMY3ovdW5GaC9MSkt2cmNWaWhKOTZSd2xJb0NoYVBrQ0xZck11MGJkWUJOc2ZaSk9YakM1bTRMampXeFpoZVUrS3YxY0VReDBpenQrUXZDQlE9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.2.6/AutosendApp_1.2.6_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRitsOGFyamxTREcvKzd5NE1JbGVOUm1DTHp5VVgwNWovaXJLUldOaGxGaTc5ZTRtNHhIeDlENXlyMWVUZ1g1bWxmMjQ5U0pDN05tM0JoUFZxeUtWYlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMDc5ODMzCWZpbGU6QXV0b3NlbmRBcHBfMS4yLjdfeDY0X2VuLVVTLm1zaS56aXAKWEFla3pPQkIrMFdaYWVXczRJd1ZJUW5URTlqVTRSWm1leUYwZ21qbk43TGh5NTRkbnJYWkNWOXNDcFExYWgrWmtoc1RxcldtakVUNHpDN2VGNlRNRFE9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.2.7/AutosendApp_1.2.7_x64_en-US.msi.zip"
       }
     }
   }
