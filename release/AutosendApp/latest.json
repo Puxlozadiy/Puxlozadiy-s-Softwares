@@ -1,5 +1,5 @@
 {
-    "version": "v1.2.8",
+    "version": "v1.2.9",
     "notes": "- Чтобы избежать багов, теперь нельзя добавить сразу несколько картинок в серверного бота. ",
     "pub_date": "2023-03-31T19:25:57Z",
     "platforms": {
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjl6Ym5UcXN2NzA5OVRsQlR1V1VOclpqN3BLOFBDOGJnYUdwT3ZZWWVHeTJ5UUJ0OHRnOVdsNGVLaEdaZWNlWUp4b2hGS0YxbFpzVll1Tlp4Vnp3SHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMjYzMjc4CWZpbGU6QXV0b3NlbmRBcHBfMS4yLjhfeDY0X2VuLVVTLm1zaS56aXAKK3dkTnAwcDBIL25xc3R3cEUxa2hjTVRacnEvcjIrVFFiVTVSTmczZ1J0WGdHMmVFRnE4TVRTclQ4NUo0Vy9UYlN0d1Y4QmJKWFFpbGtITVJsdHBXQWc9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.2.8/AutosendApp_1.2.8_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjE1V2xiSTBTN2JjZzdWS0Y3cWVMa1puRHZDUXM4eWhnR2pTdys5ZHJEaW5ZRHVlMkoyYWRCTDQ3YlVDZmFnb1NnbFdTb1lGZExJS1hWcWpiazRWTndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMjY0MjY1CWZpbGU6QXV0b3NlbmRBcHBfMS4yLjlfeDY0X2VuLVVTLm1zaS56aXAKK0E2SzBUNndJblhYc3lGRnhwdXl2eWJQYWxoREtlWDJFalF2YVZWODRJQXNZOFJsdGdsN1Zpb1FoMytNODVzcVR4YzVrbE55RUJ2NC9ZSWlYTzAzQ3c9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.2.9/AutosendApp_1.2.9_x64_en-US.msi.zip"
       }
     }
   }
