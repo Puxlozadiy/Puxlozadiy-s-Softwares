@@ -1,5 +1,5 @@
 {
-    "version": "v1.3.0",
+    "version": "v1.3.1",
     "notes": "- Пофиксил баг с неработающей функцией анти-спама \"Удалять прошлое\".\n- Таймер перенесён в главный процесс программы, точность увеличена.\n- Исправлены многократные проверки токенов ботов при запуске программы, теперь проверка срабатывает один раз.",
     "pub_date": "2023-04-02T19:25:57Z",
     "platforms": {
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjBnR0RlRFJEL09zMGt0MWcrN2ZCdVYyRldOTmF3VGdlRWY1MzhaYjVsbjh5RVNnd2dUcEhyUTJKZzRoblRneUVZWjRTR1Zydk5Da0dzVjdMbGRyeHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwNDIyNDg0CWZpbGU6QXV0b3NlbmRBcHBfMS4zLjBfeDY0X2VuLVVTLm1zaS56aXAKamtqN3lUZk1PbWN1U2syQWZ5OFpDRU8vTXV3aGQzTjFrVVQxMXA0M2hjM2ovbTh2Rlo1UytOQkVxcStVZ25mT0xJRURqbmtMeDVYZVozNUpJL09rQUE9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.3.0/AutosendApp_1.3.0_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjQ3eHJzRC9vYnE4MUU0aktsT00waVpqbFVmVnRaaXkzREY1UG51Zm1XYXBCbFFCRnJrK3ROWTJ4SWVDYjhWM3RYSndKUXU0bzdaYTkwUDZRNUg2bWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwNDI0MDc3CWZpbGU6QXV0b3NlbmRBcHBfMS4zLjFfeDY0X2VuLVVTLm1zaS56aXAKK0ExV1dMdTlRVWhucHJWQUtENjQ5dmZSTW1NZG8xREpqblVoWXB0MDNqekJGYmduWEZRYXdKcjFPdWVxOUs4Q09GNVJvRzZkdVBFajBBWWpzZnFURFE9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.3.1/AutosendApp_1.3.1_x64_en-US.msi.zip"
       }
     }
   }
