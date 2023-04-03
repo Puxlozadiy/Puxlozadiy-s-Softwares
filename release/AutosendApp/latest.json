@@ -1,6 +1,6 @@
 {
-    "version": "v1.3.4",
-    "notes": "- Фиксы багов.",
+    "version": "v1.3.5",
+    "notes": "- Исправлена работа функции Анти-спама 'Не отправлять'.",
     "pub_date": "2023-04-02T19:25:57Z",
     "platforms": {
       "darwin-x86_64": {
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRnc1MERweXdyRFVjWXBMT1k2NzU0Mjg0N0VoeVdYeXRuUk5PSDIzV3RVZ1FTYVd2cEsrYWtQV0g0Q25USmFRbFk3RFlCbVZLR1VyUm1DaTJXNENPbVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwNDM0NjY4CWZpbGU6QXV0b3NlbmRBcHBfMS4zLjRfeDY0X2VuLVVTLm1zaS56aXAKcDhjOVV2RHd1dFBpVmR4Y3dac2orRnVWMDc3cXg0M2RiK0M1NklHckpqdzUxK1kyc0R6R2p1OW43YzJ3L1BjREhkaVVuN0RNQ3Q5RlVXSE1UT1R5Q1E9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.3.4/AutosendApp_1.3.4_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRndtSzhvRlIxajBseG1RNDFRVDNXVEdDZWRaLzlnNUV6N0tvdDJOVmw3M2pUYzBjQ01SU1ZTYWZvaWJDZWF2WS9sa1lmdjE4T0crOThCbXVQaG1XZmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwNTE4Njk3CWZpbGU6QXV0b3NlbmRBcHBfMS4zLjVfeDY0X2VuLVVTLm1zaS56aXAKU2dQaXdUNkxuYWpteXRHb3FNM3VCMFZyNFpOWDF6WXkyc1M0R2IrOVNDU2h6emZmVWJZVmpnbzl6V2tsei84L0dBdTlmd0Y0T29qbUM5TGtkRVZJQ3c9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.3.5/AutosendApp_1.3.5_x64_en-US.msi.zip"
       }
     }
   }
