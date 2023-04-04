@@ -1,7 +1,7 @@
 {
-    "version": "v1.3.5",
-    "notes": "- Исправлена работа функции Анти-спама 'Не отправлять'.",
-    "pub_date": "2023-04-02T19:25:57Z",
+    "version": "v1.3.6",
+    "notes": "- Исправлен баг, когда бот переставал отправлять сообщения и было написнао 'Отправляем'",
+    "pub_date": "2023-04-04T19:25:57Z",
     "platforms": {
       "darwin-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjNNYTRLb2w1V1dOb0hQUVI4cFdWODdnci9CS0U1eVJaN3dUR1dVd0RYK2pkY2YzZlBmam1wRmloRWxUNkxTT2ZXaDhuS2I0d2pneURTTnM1Q0hQQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5OTkzMzI0CWZpbGU6QXV0b3NlbmRBcHBfMS4yLjZfeDY0X2VuLVVTLm1zaS56aXAKdGxwa1JDWG9rRjJuSkpFK0pSMDArNnIrTnB4ZGdMYXNLL21hTXNCdGI2K05CelRJaFRkSWNRazMzSC8zNVZLY29KUmNPMmZiQk9sUjYvOGYrdHMvQ2c9PQo=",
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRndtSzhvRlIxajBseG1RNDFRVDNXVEdDZWRaLzlnNUV6N0tvdDJOVmw3M2pUYzBjQ01SU1ZTYWZvaWJDZWF2WS9sa1lmdjE4T0crOThCbXVQaG1XZmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwNTE4Njk3CWZpbGU6QXV0b3NlbmRBcHBfMS4zLjVfeDY0X2VuLVVTLm1zaS56aXAKU2dQaXdUNkxuYWpteXRHb3FNM3VCMFZyNFpOWDF6WXkyc1M0R2IrOVNDU2h6emZmVWJZVmpnbzl6V2tsei84L0dBdTlmd0Y0T29qbUM5TGtkRVZJQ3c9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.3.5/AutosendApp_1.3.5_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRno1dElmY204QlFtVG9ybm1mZWtrL2tUQTdyT1JnWjFlMUFleElNN28wckVRME5vSm5sSXZWN1pvblUxclQ4VVJwU2pBL0dCTlM5SVZIaHAwMXJCV3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwNjAzOTU1CWZpbGU6QXV0b3NlbmRBcHBfMS4zLjZfeDY0X2VuLVVTLm1zaS56aXAKS3BuNlVSMXV0VHM0cEpUWlJOV0RwUnNrWkVSUmFXMlE1TVFLdklFWng5Z2xGMWxjRDYvV0lRMVlDbkxOYk50a2J5N25hUWEyY0hKeWxpNkpudUgzQXc9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.3.6/AutosendApp_1.3.6_x64_en-US.msi.zip"
       }
     }
   }
