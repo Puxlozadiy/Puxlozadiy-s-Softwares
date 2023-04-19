@@ -1,5 +1,5 @@
 {
-    "version": "v1.3.14",
+    "version": "v1.3.15",
     "notes": "- Добавлен рандомный интервал между сообщениями.",
     "pub_date": "2023-04-19T15:25:57Z",
     "platforms": {
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRnpOVk5IMDYyQ2hUbUIyNnVsaGlXTzJJM2tSMDZPWE9kTVkyRkFFV0tYZG03d2NSdHJFZ3d1YXh2RncxZ1dETmRLdVRVSG10YVg0TUY3TDA5R1FYMXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxODkzMDQ3CWZpbGU6QXV0b3NlbmRBcHBfMS4zLjE0X3g2NF9lbi1VUy5tc2kuemlwCnBXOENBUkhlWU1OcFdMVGFEQ1FuTGY0aVh4d1FFYlUxSDJCcUdJRlh5eHMybktYOVU1VmhpL2Y1KytyaTBDRm5id05RMmFjSXlSdU5MaUViaDdGUkNnPT0K",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.3.14/AutosendApp_1.3.14_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjMrMlVWSW41UHBSSkpSdm9hY0FxRWxEUEhQcC9kWmlyUjlYc2ZPdDU0S0UvQ29DdHR1VVlwNEEzeWdrVFpyak95VUhVVkYvQ2JXdDJ6VTN5eGpka1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxODk0MjkyCWZpbGU6QXV0b3NlbmRBcHBfMS4zLjE1X3g2NF9lbi1VUy5tc2kuemlwCnZ3M2FmWDNLVEowZ2FBTHJuUVZ6SkRpYlVzNDN2dHY0QVZYRnNLQmhxeGJpbk9qODFhcDBBZERLOG9xUEpjaENnZVMzTmRUWTRwenR5bHNML2pKMkRRPT0K",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.3.15/AutosendApp_1.3.15_x64_en-US.msi.zip"
       }
     }
   }
