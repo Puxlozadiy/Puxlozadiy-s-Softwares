@@ -1,7 +1,7 @@
 {
-    "version": "v1.3.16",
-    "notes": "- Добавлен рандомный интервал между сообщениями.",
-    "pub_date": "2023-04-19T15:25:57Z",
+    "version": "v1.3.17",
+    "notes": "- Исправлен баг, когда появлялся серый экран при удалении предпоследнего бота.\n- В настройки добавлен пункт 'Индикаторы времени в списке ботов', при включении которого в списке ботов показывается время до отправки сообщения каждого бота.\n- Другие доработки и исправления.",
+    "pub_date": "2023-04-23T15:25:57Z",
     "platforms": {
       "darwin-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjNNYTRLb2w1V1dOb0hQUVI4cFdWODdnci9CS0U1eVJaN3dUR1dVd0RYK2pkY2YzZlBmam1wRmloRWxUNkxTT2ZXaDhuS2I0d2pneURTTnM1Q0hQQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5OTkzMzI0CWZpbGU6QXV0b3NlbmRBcHBfMS4yLjZfeDY0X2VuLVVTLm1zaS56aXAKdGxwa1JDWG9rRjJuSkpFK0pSMDArNnIrTnB4ZGdMYXNLL21hTXNCdGI2K05CelRJaFRkSWNRazMzSC8zNVZLY29KUmNPMmZiQk9sUjYvOGYrdHMvQ2c9PQo=",
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjFZcURTdHJJb0NOZDlCa0cwMk8yOUFLb0lwZWo1L2t5M1l3N0MzdnJnZ3E4bEhHRUltNmFiTWFSRzRCSEJMSDNIQnp5S21hYWFIWU9HSnhJKzJEUmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxOTY5OTY2CWZpbGU6QXV0b3NlbmRBcHBfMS4zLjE2X3g2NF9lbi1VUy5tc2kuemlwClUrOGlaWWNVbUtqcjdXUXExYmt0VmpXb1krb3p1WVB0Z1E2NjR1czArRFRUZmZjRWZWMFk3SmNNdzY5ejc5UFBTR0NKR0hpanloZDVleXVvZXdFY0NBPT0K",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.3.16/AutosendApp_1.3.16_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRnpZeEppSjJIRTlDTHl4aHZ4dkpwK3QxYjNBV2EwZ09McDlwK1NHbU9iN0VtekttcUVTeU94NENwWVpJV2ZrVkdhMHBpRHBWUWhiM1VpdjdjajhlZGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgyMjMyMzA4CWZpbGU6QXV0b3NlbmRBcHBfMS4zLjE3X3g2NF9lbi1VUy5tc2kuemlwCnVBbnVmM3I5SnFYeEhYZkxtTDdjRFpmQVI1aHA1cnFHcWRDT05xOS9NekdTNnZKNGEvZ29HV3A2ckIycDBMT3N5R0RvNUVhYTJ3cGFRZktUU3NXVURBPT0K",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.3.17/AutosendApp_1.3.17_x64_en-US.msi.zip"
       }
     }
   }
