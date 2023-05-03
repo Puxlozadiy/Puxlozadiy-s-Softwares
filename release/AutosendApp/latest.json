@@ -1,6 +1,6 @@
 {
-    "version": "v1.3.19",
-    "notes": "- Добавлена настройка 'Запускать вместе с Windows'.\n- Добавлена настройка 'Включать всех ботов при запуске'.\n- При неправильном вводе данных программа скажет в чём проблема и выдаст ссылку на инструкцию.\nБот не выключится, если ваш интернет выключится.",
+    "version": "v1.3.20",
+    "notes": "- Фикс багов.",
     "pub_date": "2023-05-03T15:25:57Z",
     "platforms": {
       "darwin-x86_64": {
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjB4N2lMOWd0ZDhpTGZtSFo0bnY5OHV1bE5xT1RNdlRhZldWN0pYdnRZTlJieU5UUDJCeUVkV0M2NUxiQmlFWVV5N1d0THpoMXpBREx2WjQvZTJzbkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgyNzczMDgwCWZpbGU6QXV0b3NlbmRBcHBfMS4zLjE5X3g2NF9lbi1VUy5tc2kuemlwCnMvc0RMQWR1OHN0a3lUd2FyczlIUitDTnRySEM5RXRISXM1K0w0UFlGaGpnUTcvcVUxampvKytsYWFNMkcyMytyZ29zLzZhSTMxbmtLVklvQmlOeEJ3PT0K",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.3.19/AutosendApp_1.3.19_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjJvVnNHOE1GTTREZzlJcTNqS0kwUzIrVHNlWVQzcGdSUTZVYU54T1dkS05UenJBbHAyUFNaRHBVeVlDSCtWa24xb2ZWRTVIWFRPOWZkVlFKVzErZ3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgzMTM5OTc4CWZpbGU6QXV0b3NlbmRBcHBfMS4zLjIwX3g2NF9lbi1VUy5tc2kuemlwCmwwNDR6dFlsMjJNNXl1S3M0YURwNWpNRlRGK1hEeUpKRWk5dTV4ZHFFRkVLUnBnTzZIYUtUOHJJN0xqM1p3N1NxbUdsVDRHUWVpMkdCSEVyK1pCU0RBPT0K",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.3.20/AutosendApp_1.3.20_x64_en-US.msi.zip"
       }
     }
   }
