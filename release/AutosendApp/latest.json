@@ -1,7 +1,7 @@
 {
-    "version": "v1.3.18",
-    "notes": "- Исправлен баг, из-за которого настройка 'Индикаторы времени в списке ботов' не сохранялась.",
-    "pub_date": "2023-04-23T15:25:57Z",
+    "version": "v1.3.19",
+    "notes": "- Добавлена настройка 'Запускать вместе с Windows'.\n- Добавлена настройка 'Включать всех ботов при запуске'.\n- При неправильном вводе данных программа скажет в чём проблема и выдаст ссылку на инструкцию.\nБот не выключится, если ваш интернет выключится.",
+    "pub_date": "2023-05-03T15:25:57Z",
     "platforms": {
       "darwin-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjNNYTRLb2w1V1dOb0hQUVI4cFdWODdnci9CS0U1eVJaN3dUR1dVd0RYK2pkY2YzZlBmam1wRmloRWxUNkxTT2ZXaDhuS2I0d2pneURTTnM1Q0hQQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5OTkzMzI0CWZpbGU6QXV0b3NlbmRBcHBfMS4yLjZfeDY0X2VuLVVTLm1zaS56aXAKdGxwa1JDWG9rRjJuSkpFK0pSMDArNnIrTnB4ZGdMYXNLL21hTXNCdGI2K05CelRJaFRkSWNRazMzSC8zNVZLY29KUmNPMmZiQk9sUjYvOGYrdHMvQ2c9PQo=",
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRi9PZ3gyVmMwZDJHN3ZKWVVLNWpKK253L255MmltQitNaUd6ejIxd2hJYnlYU2o0ZnVQeDNSVjgvN1BRS2FPbGNWK1BHWUdEbEVvNWtaakVpNkgwVWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgyMjQ5MjYzCWZpbGU6QXV0b3NlbmRBcHBfMS4zLjE4X3g2NF9lbi1VUy5tc2kuemlwCm84RFFOb3U1eVZhSUFERFlhSnNSby9uNTJMZFJBSDh2UDUxN2JTUWVZMDQ0R2hMUGpsMHNHa2tzVWNsTVRuOGFoZEhtWDBka2pTSUxhR1BKVVJQTEN3PT0K",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.3.18/AutosendApp_1.3.18_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjB4N2lMOWd0ZDhpTGZtSFo0bnY5OHV1bE5xT1RNdlRhZldWN0pYdnRZTlJieU5UUDJCeUVkV0M2NUxiQmlFWVV5N1d0THpoMXpBREx2WjQvZTJzbkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgyNzczMDgwCWZpbGU6QXV0b3NlbmRBcHBfMS4zLjE5X3g2NF9lbi1VUy5tc2kuemlwCnMvc0RMQWR1OHN0a3lUd2FyczlIUitDTnRySEM5RXRISXM1K0w0UFlGaGpnUTcvcVUxampvKytsYWFNMkcyMytyZ29zLzZhSTMxbmtLVklvQmlOeEJ3PT0K",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.3.19/AutosendApp_1.3.19_x64_en-US.msi.zip"
       }
     }
   }
