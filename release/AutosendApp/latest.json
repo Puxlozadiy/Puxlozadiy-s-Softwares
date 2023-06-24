@@ -1,6 +1,6 @@
 {
-    "version": "v1.4.0",
-    "notes": "- Список обновлений в Discord-сообществе в канале 'Новости'",
+    "version": "v1.4.1",
+    "notes": "- Исправлен краш при нажатии на стрелочки в определённом месте.\n- Другие исправления.",
     "pub_date": "2023-06-24T15:25:57Z",
     "platforms": {
       "darwin-x86_64": {
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjFnRHhsZUcxdXFGdnAvYnBWbXhmdkM5Q1ZFVDdxbWFZM2FlSEljUERZLzBDeG44RHF6OStaRERLU3hvdUxoMDRsUEI5V2dROUhnVTRTTERJQzlTaGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg3NTc1NDE4CWZpbGU6QXV0b3NlbmRBcHBfMS40LjBfeDY0X2VuLVVTLm1zaS56aXAKVEVackVZekN1dWlpOVQ4MTRDRTU1OXhnL2RCRnBJVDhoMitjQm5yU0h5Q2JzZDAveU9vMXJIV01PMWh2T2tWNHlQYkkway9oa3czb2VZNWhuWE5aRFE9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.4.0/AutosendApp_1.4.0_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjNqUG9lSi9kM2dxeExNZFdJR1NEY3pvVnJ0UTNmallHUjN1aHdmeFk1b2lqTEg0cm0wV2tNSUpvZWdJeVJCemlDc0doTHAwTWYvNFZxWTRQTGttcGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg3NjA1MTY0CWZpbGU6QXV0b3NlbmRBcHBfMS40LjFfeDY0X2VuLVVTLm1zaS56aXAKa01nT01kd21YYVdPVGpmRVhkMWdTR3IvNUlsZURkTTJoUmNrSzc1djllMnQyaXZqZ1BRd3RqZ1B1b0dXMk5iOWluNm8wT1F4V2RaTjdNcHVRaEVXRGc9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.4.1/AutosendApp_1.4.1_x64_en-US.msi.zip"
       }
     }
   }
