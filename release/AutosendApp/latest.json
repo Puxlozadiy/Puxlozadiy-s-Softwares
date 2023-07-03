@@ -1,6 +1,6 @@
 {
-    "version": "v1.4.5",
-    "notes": "- Полный список изменений находится в канале 'новости'.",
+    "version": "v1.4.6",
+    "notes": "- Полный список изменений находится в канале 'новости'.\n-Фикс багов обновления.",
     "pub_date": "2023-07-03T15:25:57Z",
     "platforms": {
       "darwin-x86_64": {
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRndRZ1p5QURPRXNMdWg2azU5ZkY4U2k3RlVrTDJZSFVzV0QzVEJKQmFNck9FbDVjcHJLYkQyb21jdGVrbm1VUlFDd1ZUdVloWmI1ZzlCRWVHQmdpQXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4MzgyOTM1CWZpbGU6QXV0b3NlbmRBcHBfMS40LjVfeDY0X2VuLVVTLm1zaS56aXAKeTFPWS9GYVRxSW5mdEhON2NOaTlwVDkvdVRqSDZCcThjSnQ2dlF6cmpyU1lkMGpjWXVDNlN2SnJkaEFWbmxUWXA2NnQxSEVvcU5ucnR2T2ZTOS9IQWc9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.4.5/AutosendApp_1.4.5_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRnp5UWVGK3EzQ1RsdDF1Wkl1NUxsN1lzbWo1OTc4TDBTM1VVNmM2aW50Z2paY1pNNVFxUUV0bENobktBb1RjVEtJZm9ua1BDUWIzRzV0SmVBTWlyaEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4Mzg1ODE0CWZpbGU6QXV0b3NlbmRBcHBfMS40LjZfeDY0X2VuLVVTLm1zaS56aXAKdUpUTEFTUTI5cFFxSFF1TXhVcmtRR2x1WnVqd2drVHhsZmEvdFFXak94Q1NDVkNtekZOZzc0THo5dUgrTlhmdXBWNGduOW4xSWFBa3lxb29zblk3QVE9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/1.4.6/AutosendApp_1.4.6_x64_en-US.msi.zip"
       }
     }
   }
