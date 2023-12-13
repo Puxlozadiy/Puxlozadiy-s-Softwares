@@ -1,7 +1,7 @@
 {
-    "version": "v2.0.4",
-    "notes": "- Информация про обновление доступна в канале 'новости' в Discord.",
-    "pub_date": "2023-08-09T15:25:57Z",
+    "version": "v2.0.8",
+    "notes": "- Исправление ошибки при загрузке картинок серверных ботов. ",
+    "pub_date": "2023-12-13T15:25:57Z",
     "platforms": {
       "darwin-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjNNYTRLb2w1V1dOb0hQUVI4cFdWODdnci9CS0U1eVJaN3dUR1dVd0RYK2pkY2YzZlBmam1wRmloRWxUNkxTT2ZXaDhuS2I0d2pneURTTnM1Q0hQQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5OTkzMzI0CWZpbGU6QXV0b3NlbmRBcHBfMS4yLjZfeDY0X2VuLVVTLm1zaS56aXAKdGxwa1JDWG9rRjJuSkpFK0pSMDArNnIrTnB4ZGdMYXNLL21hTXNCdGI2K05CelRJaFRkSWNRazMzSC8zNVZLY29KUmNPMmZiQk9sUjYvOGYrdHMvQ2c9PQo=",
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRnhub0hubkcxSjd4OGpqNWJ0M014emt1TWdRT2s1cThsR3Y4aWZQN2dMVy9QS2RCQ2QvRzhEVmxLaHhwSko1QWgvS2lMemh6N1VMU2l1MXFQTURoTlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxNTc1NjkyCWZpbGU6QXV0b3NlbmRBcHBfMi4wLjRfeDY0X2VuLVVTLm1zaS56aXAKSnpxcVYyRFMzSmtwZlV2akI0eHJiY2pCZ2dRR2dETGlOR3k5bVVXc2tOMERvRGNQY2ZrTFhIejVTaDltMGZvZ2k0ckRpbmQzS1BIcm50dFFaR0QzQUE9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/2.0.4/AutosendApp_2.0.4_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjlJbU1sN2cvTWYyVFNtWjdHblZabWwrendzcTlTY0F5cGpDVUQ4U1VUZXc2VkNOVmNhRXBOa1BXMHVqSDhsc2lLL1ZQdGJybTI2SDFYWFBNclBMVmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAyNDg4ODk3CWZpbGU6QXV0b3NlbmRBcHBfMi4wLjhfeDY0X2VuLVVTLm1zaS56aXAKSE1FN0dNNVp3amNZRkdhNVJmcFN5RXFmVzhlMStKUzJLZjQ5RXBPMXBkNFdKVW54U3dhU2pmZzJBa3hSM0hsVldtUTdZMU94eHNDT0JkVFo1U3lkQlE9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/2.0.8/AutosendApp_2.0.8_x64_en-US.msi.zip"
       }
     }
   }
