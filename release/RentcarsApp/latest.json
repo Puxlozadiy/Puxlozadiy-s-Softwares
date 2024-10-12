@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.1",
+    "version": "v1.0.0",
     "notes": "- Релиз.",
     "pub_date": "2024-10-12T14:00:00Z",
     "platforms": {
@@ -16,7 +16,7 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjc5Zldpby80K2xacjhzbVFqUXYzSXh0UUZWN3ZNVUZoUEcxekJQNzhKdDdXTU1KbTl4dXlxcTJ4SkRtR1Q2dTVJZXgrSWlYYnpQekdCaURHK3BkNlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1NzE1MTQyCWZpbGU6QXV0b3NlbmRBcHBfMi4xLjFfeDY0X2VuLVVTLm1zaS56aXAKcjVIMXpCSTIzNCs0OUpQbkUvNnZ5V3AvdEVsMHltMFVINXdBMmNENXR6aTQyaENxRytGOWh6M1VVa2RsUUJjaDYzc3R6UFpCbEpjODQvN2tjQ0ZTQUE9PQo=",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRitGTnFKMCtIdmtST1J3cnpPb3VNYjZDaHdDdEY1K3lZdEZ0UGxMVkpZcnRZMVg1dGV5SWRWK2hJMWdEYjl2SUFrbFZ4RkYrdU55TkNjdWVKUU8vL2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NzQ2MjEzCWZpbGU6UmVudGNhcnNBcHBfMS4wLjBfeDY0X2VuLVVTLm1zaS56aXAKK1FQbnoveXRTbWw1OWxrT1ZzU25vYldZQXBoQUxLcTBBZmVqL1kwekdDRTF5R01FYm1OY2VHeW4rQTM0MThOMncrWitaSkxpWHNhYmlWclh6Slc1Q0E9PQo=",
         "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/1.0.0/RentcarsApp_1.0.0_x64_en-US.msi.zip"
       }
     }
