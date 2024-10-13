@@ -1,7 +1,7 @@
 {
-    "version": "v1.0.1",
-    "notes": "- Небольшие исправления, новые функции.",
-    "pub_date": "2024-10-13T13:00:00Z",
+    "version": "v1.0.2",
+    "notes": "- Тех. работы.",
+    "pub_date": "2024-10-13T14:00:00Z",
     "platforms": {
       "darwin-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjNNYTRLb2w1V1dOb0hQUVI4cFdWODdnci9CS0U1eVJaN3dUR1dVd0RYK2pkY2YzZlBmam1wRmloRWxUNkxTT2ZXaDhuS2I0d2pneURTTnM1Q0hQQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5OTkzMzI0CWZpbGU6QXV0b3NlbmRBcHBfMS4yLjZfeDY0X2VuLVVTLm1zaS56aXAKdGxwa1JDWG9rRjJuSkpFK0pSMDArNnIrTnB4ZGdMYXNLL21hTXNCdGI2K05CelRJaFRkSWNRazMzSC8zNVZLY29KUmNPMmZiQk9sUjYvOGYrdHMvQ2c9PQo=",
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjJlNXpodUxWa0cvdmZWQ3R0MWJUekZEeGNvb1VjTG9yZEtGMFloV2dUckNTUS9RU1BGekF2L0RxR1pFV3dvM05ybkx0K3RZL0VqR0gyb25MdW9PVlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4ODExMjAyCWZpbGU6UmVudGNhcnNBcHBfMS4wLjFfeDY0X2VuLVVTLm1zaS56aXAKdEt1OW1ETG8wd1NTOUptbGJlRnlrcUVOWU1DVXNXbzBVMEpJVzlHckFHVVIzVm5aMHJvUkFIbFh4K0dJeWh4MXVJTWdnRkxkTDVxbzk1U0lCQjFyQkE9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/1.0.1/RentcarsApp_1.0.1_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRndab1ZEQThoT0hxaWxzY3JsbWwyL01pS2toc3drTU55MzdCUC9PdlhBRzROcTFsOVkvTVJRTFg4anVHZkRReHMreFdMemxpeS92eXYxN1VqYkFqUEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4ODE4MTM0CWZpbGU6UmVudGNhcnNBcHBfMS4wLjJfeDY0X2VuLVVTLm1zaS56aXAKd3FGRVRDSjI2d2U5bnFybkxBNW5RdVBYVzlEQjFGMzBDK3IrRzNzQ3RHYUMyUmc4MFB2RzhkcHpVc0tyNno3cDN5L1ZhWXVldU1SWVcxbnByeGgwRFE9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/1.0.2/RentcarsApp_1.0.2_x64_en-US.msi.zip"
       }
     }
   }
