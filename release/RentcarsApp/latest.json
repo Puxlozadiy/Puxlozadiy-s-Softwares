@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.7",
+    "version": "v1.0.8",
     "notes": "- Информация об обновлении в канале 'Новости'.",
     "pub_date": "2024-10-20T23:00:00Z",
     "platforms": {
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjByaDQxVFV1WVhQT1dNUUVmZ1IzQzVwdEl5aEJkS3Y3QmdNQ3RxQ1Fvb200cnF4LzEyNGFyNnFiOCtKZ0hZOXI1bkRRUDFQSEgwRnFsWjVIOFZXalFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5NDU3MDU0CWZpbGU6UmVudGNhcnNBcHBfMS4wLjdfeDY0X2VuLVVTLm1zaS56aXAKemQ3MVRDbTA0NkduUGpjcFRVaWx6M2greEI4RDVMTjdzUFRtV0hmQW12L3RBR21helh1bmlVOCtSNkwyLzhKZkNsVGdyekRuNExJcWlUK2tzMEFSQ0E9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/1.0.7/RentcarsApp_1.0.7_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjgwaHNnaUd5Q1NFVVZlUG4rWW5FYmEzZVRkK0dKaVY1VXhUYXVyOWN1UmRmS1Fvc2F6VFJ6Slc5VnVvM1lqbU9lYUVJUHhHZFVjWVBKS1pseXZiRlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5NDU3NTM3CWZpbGU6UmVudGNhcnNBcHBfMS4wLjhfeDY0X2VuLVVTLm1zaS56aXAKZGtvRGxTYkVkY1BvOTQvdExtNkJyK0ZtMFNYVjlmekl6TzBaQVhBNkk1RWZTTEM5cEd5Rm1oNUI0REU0a2tDR0VOSHRpNWZTRUEyaGJRSmdmS1d0QWc9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/1.0.8/RentcarsApp_1.0.8_x64_en-US.msi.zip"
       }
     }
   }
