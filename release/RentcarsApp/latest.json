@@ -1,5 +1,5 @@
 {
-    "version": "v1.2.0",
+    "version": "v1.2.1",
     "notes": "- Информация в канале \"Новости\".",
     "pub_date": "2024-11-23T17:00:00Z",
     "platforms": {
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjRZK2NMSW5hdFd1MTVVRjdMZVRlY0FZUkpabzZWU2hVakt3L0VsTUcrRk5mQ1ByL2xmd1VSaTJVU05XMmx1WmZDYXdaNUNTQWp3eU10Sm1aSDc5VWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyMzY5NDg4CWZpbGU6UHJvcGVydHlBcHBfMS4yLjBfeDY0X2VuLVVTLm1zaS56aXAKTUVkL0NkK0k0SkRGL2NUbDlSalBaZXJKZ3ZIYXV4NFR0dklGUU4vRjRLU2kwSzUyRUJaR20xN0VqbmFuQ3BoWUJDN0IzbWcyOHlqb0xQNVBFQ1Y5QlE9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/1.2.0/PropertyApp_1.2.0_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRndhN2FzZEdJeXM5U1RqSW5RTW9tVnhmajhsek45WCtjbzF6QlZUZ0YrMUpUaStPRllUK1ZrYnZ3UTBldncwWXBHcWF3LzFLMFFqSS96VGxsejBTeUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyMzc4Mjk2CWZpbGU6UHJvcGVydHlBcHBfMS4yLjFfeDY0X2VuLVVTLm1zaS56aXAKZklTNnY5RXBOdjJWdHN3NGVoMXpyOEZKRDlvLzJxQnBic20xVzFocUF4am5KVGxmaE1Fa1h4R1pBRk5neEcyYjI5R0plemJSN0ZiV2FjV0Z3Vk1NQlE9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/1.2.1/PropertyApp_1.2.1_x64_en-US.msi.zip"
       }
     }
   }
