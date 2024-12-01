@@ -16,7 +16,7 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjV4NUtFMERaYUh4NGlJbldoL1N1VzZkYXBtNlJNQWNqOWhhbGllUXlXZUNUK1AzUzdJNU1hUzFodzI5dUZkcXBob1hVcVRtcE1WTGlJYXpWQ1pzVmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzMDM1ODIwCWZpbGU6UHJvcGVydHlBcHBfMS4yLjVfeDY0X2VuLVVTLm1zaS56aXAKN216UTgzMmVsVGw4Y3lQN3Z2ZEkzMTBrMkJ6NDFubG9zdXZnY1ZCMUJkRGFXVUFRTUFxVHZTRkxVQzZ5dUdOd0F2Tm5IUE9NVXByMGJMdlhSMUFnQVE9PQo=",
+        "signature": "",
         "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/1.2.5/PropertyApp_1.2.5_x64_en-US.msi.zip"
       }
     }
