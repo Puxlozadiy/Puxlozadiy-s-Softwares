@@ -16,7 +16,7 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjc5Zldpby80K2xacjhzbVFqUXYzSXh0UUZWN3ZNVUZoUEcxekJQNzhKdDdXTU1KbTl4dXlxcTJ4SkRtR1Q2dTVJZXgrSWlYYnpQekdCaURHK3BkNlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1NzE1MTQyCWZpbGU6QXV0b3NlbmRBcHBfMi4xLjFfeDY0X2VuLVVTLm1zaS56aXAKcjVIMXpCSTIzNCs0OUpQbkUvNnZ5V3AvdEVsMHltMFVINXdBMmNENXR6aTQyaENxRytGOWh6M1VVa2RsUUJjaDYzc3R6UFpCbEpjODQvN2tjQ0ZTQUE9PQo=",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRitEeW1nRjYrNnRNaC9sVVdnS2RVV0ZFdDh3aTFKeXo3NlMzbTJTNmpMMmtUZThYaDNoV1FlMEZuMjAydmdkdXJjZW5tcmh3MmtwcUMzQ2N3d2t1b0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwNDI1NTY4CWZpbGU6QXV0b3NlbmRBcHBfMi4xLjFfeDY0X2VuLVVTLm1zaS56aXAKQ1Y2TFlzQUEzb2FtSUNaeDZCZ1AwZTdOY0ZKdm80V2EvUUNia3h1ZE91TDgyd3ovam5MSDB4bHpPcTFqY2g3V3l0SjBnZndPNVROQ2hZdHFWQ0FiRGc9PQo=",
         "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/2.1.1/AutosendApp_2.1.1_x64_en-US.msi.zip"
       }
     }
