@@ -1,7 +1,7 @@
 {
-    "version": "v2.1.2",
-    "notes": "- Первая часть технических работ.",
-    "pub_date": "2025-03-18T22:00:00Z",
+    "version": "v2.1.3",
+    "notes": "- Информация в канале \"Новости\".",
+    "pub_date": "2025-04-07T02:00:00Z",
     "platforms": {
       "darwin-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjNNYTRLb2w1V1dOb0hQUVI4cFdWODdnci9CS0U1eVJaN3dUR1dVd0RYK2pkY2YzZlBmam1wRmloRWxUNkxTT2ZXaDhuS2I0d2pneURTTnM1Q0hQQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5OTkzMzI0CWZpbGU6QXV0b3NlbmRBcHBfMS4yLjZfeDY0X2VuLVVTLm1zaS56aXAKdGxwa1JDWG9rRjJuSkpFK0pSMDArNnIrTnB4ZGdMYXNLL21hTXNCdGI2K05CelRJaFRkSWNRazMzSC8zNVZLY29KUmNPMmZiQk9sUjYvOGYrdHMvQ2c9PQo=",
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjFKMHg3a2FZUkZWQzAyWHZYOHpYM21GZEt2K3RYUEtCd0d4cmlRQ1RtYXMwR0d6bDBjajZmNWZaYnZoUXkxd2YvTSs3M1J0RG9MZ3RBZkkySXJvbkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQyMzI5NTQxCWZpbGU6QXV0b3NlbmRBcHBfMi4xLjJfeDY0X2VuLVVTLm1zaS56aXAKN21KcS9sMllKU0hGL0RRYk9pUGdzc0F4aXAydGhVRDBMSm0zTjM1N0p4cGx6VldVNktrYWlsR2NhMDZUQ1ZFaUJlN2ZuQytidFY1cWZHb2N1eFQyQ0E9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/2.1.2/AutosendApp_2.1.2_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRi9IMmtvalRvU0lPd2Z6amEwUTZFNFZWZDlwOUczUkNIejYyVXlLbFJ2UmhXdmRiUVd4Umd3NVRJTEl6Wk4yQlA5czlwWVk3NTNPejlaYVpmVk5KQ2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzOTgyMzg2CWZpbGU6QXV0b3NlbmRBcHBfMi4xLjNfeDY0X2VuLVVTLm1zaS56aXAKMkoyQVFqNk1UV0hGaWVBT1NzS2xwVm14dFZSSHNiTlAxNDJlMkNiWTVBM3I5bk1BNUJWMmpoYVBGNGJSS3lvMmQ2M1BINjY3WC9XNkFUL1VWRGp2Qmc9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/AutosendApp/windows/2.1.3/AutosendApp_2.1.3_x64_en-US.msi.zip"
       }
     }
   }
