@@ -1,7 +1,7 @@
 {
-    "version": "v1.4.3",
+    "version": "v1.4.4",
     "notes": "- Информация в Discord канале \"Новости\".",
-    "pub_date": "2025-04-13T15:00:00Z",
+    "pub_date": "2025-04-19T17:00:00Z",
     "platforms": {
       "darwin-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjNNYTRLb2w1V1dOb0hQUVI4cFdWODdnci9CS0U1eVJaN3dUR1dVd0RYK2pkY2YzZlBmam1wRmloRWxUNkxTT2ZXaDhuS2I0d2pneURTTnM1Q0hQQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5OTkzMzI0CWZpbGU6QXV0b3NlbmRBcHBfMS4yLjZfeDY0X2VuLVVTLm1zaS56aXAKdGxwa1JDWG9rRjJuSkpFK0pSMDArNnIrTnB4ZGdMYXNLL21hTXNCdGI2K05CelRJaFRkSWNRazMzSC8zNVZLY29KUmNPMmZiQk9sUjYvOGYrdHMvQ2c9PQo=",
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRi9PbHlOKzNXalpnZ0xmeVlxZk9ocHN6MzlpdXN5cXBWai9JUGZNWnBRaWt4NnBFQnhCbVBxcTQvZlVZeVBzWWhNM1hLaVJkc2RLZG92ZWdGSjV5d0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NTQzNDc0CWZpbGU6UHJvcGVydHlBcHBfMS40LjNfeDY0X2VuLVVTLm1zaS56aXAKMjlucDQxUXZNUnpQa0I3dC9FNEZ6bmkrQlUxSTRRODhSVkJVY1VDWmJkZkxWeDUxWHJGUGN3Rzl4ZEltbjBZdERwRlpoQjFHS2NJeHVHLzk2c1BaQVE9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/1.4.3/PropertyApp_1.4.3_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjA5T2h4cCtxcjd1WHI2VVFLbCt5Rkp1K0UxUXlDM1ZxZmoxNWNCSlRpeHJZb2E1WXhER1NDTldab2J1djJkMTY1OWZ1dldIUUxiZ0pyNkVqeGhaNEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MDcyMzU3CWZpbGU6UHJvcGVydHlBcHBfMS40LjRfeDY0X2VuLVVTLm1zaS56aXAKejhRZjlwYWE4NWdaWUZuaFpwZElVZmdROE5WbE5KaFJTd0RxWlg2ZWxqMFBxZXdETXpidWV2bjBJZXQ3TmJjZUkrVVJQY0ZqNEd2eWFVcjZCSncwRFE9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/1.4.4/PropertyApp_1.4.4_x64_en-US.msi.zip"
       }
     }
   }
