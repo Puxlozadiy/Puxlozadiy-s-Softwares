@@ -16,7 +16,7 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRnhVVkVSeXZZTWt3UWRpN3FubS8zcHVoNmg3S0x2dzBpNDBjeHp3ZFdFR1VCTkNjRmsyNUlNYjIra201V1VJL1dsTzdCUjVaWjVWeXpQYlJYR1Y0S0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MjU2MjU1CWZpbGU6UHJvcGVydHlBcHBfMS40LjlfeDY0X2VuLVVTLm1zaS56aXAKbGRQNEtaYy9tdDRlT1B3UitzU1lGSGZYNnFwUmVnaU5UaUV6Q0lpdGo5SUxmRnhtY0dDVXlwVVdCRm1TeTRJRkdtUEtMZWxCd0dEdzBlN0hMUkhJREE9PQo=",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjV1NGtwb2xuUjFtRXJUdWdrUW9FaEh6YVU2Wm9mTDE1aVI1bUZseUpPUXc0dDl0NDROeXBJek92L3BYWmxYYjBISjhKYzB1SEF3eTJTcVFsN3F1aVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MjU5ODU5CWZpbGU6UHJvcGVydHlBcHBfMS40LjlfeDY0X2VuLVVTLm1zaS56aXAKTHNqV1V4R2NhamVzb0d1bURLSGI0K1d6a1Foam1tWUtVM2kzUnRzdlBmYVJ1TzYxUmRFWkoxQ1RBRXJBV1IzN2YreDNUT2dvbDhEWUNLb09aUTR0RFE9PQo=",
         "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/PropertyApp_1.4.9_x64_en-US.msi.zip"
       }
     }
