@@ -1,5 +1,5 @@
 {
-    "version": "v1.5.3",
+    "version": "v1.5.4",
     "notes": "- Исправление ошибок.",
     "pub_date": "2025-10-01T10:00:00Z",
     "platforms": {
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjRyK3daL2gwdmxtbXVzNjY1dXBTcjdvak92cWQ4MXZVV0I5aERCOWgwaTFCM2gyQ3hCcjlJRVdoUjRsc3EwL3EybVBMZXFhcGNNeDQzejR0KzVYOHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MzEyNDg5CWZpbGU6UHJvcGVydHlBcHBfMS41LjNfeDY0X2VuLVVTLm1zaS56aXAKZWNuSGhlcHozbVM0MDlxMkZZVHZnVGhyc0tBd0ZrWExMRG9EZFByNEdtaEllUHdreHBEMFBYS0txZlNBMldvYTdXK0srem1NSFZiT1NhSGdBcDdKRGc9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/PropertyApp_1.5.3_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjNnUGJHV3B2Y3VEUjg1WWFOWEM2a2IrYVdiaU5UNElBbndlZ2gzTGxsWUJwZnloRkozakRZQlZ4NkZ4U1JMcE9yOTJPeG1YWEUvNE9kWlkvbVRidndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MzMwMTEwCWZpbGU6UHJvcGVydHlBcHBfMS41LjRfeDY0X2VuLVVTLm1zaS56aXAKUVZjalFNdnc5TVVxd1JyMVdLaVMyeG1vaHNDMllqYmo0cDhoZk5SUEJuSktpT3pMUStVZ2RNdWZsZm40a3VHbVhtZzdUVUtWTzF0OHlSZzRSTlJxQ2c9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/PropertyApp_1.5.4_x64_en-US.msi.zip"
       }
     }
   }
