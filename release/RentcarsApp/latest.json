@@ -1,7 +1,7 @@
 {
-    "version": "v1.4.9",
+    "version": "v1.5.0",
     "notes": "- Информация в Discord канале \"Новости\".",
-    "pub_date": "2025-09-30T10:00:00Z",
+    "pub_date": "2025-10-01T10:00:00Z",
     "platforms": {
       "darwin-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjNNYTRLb2w1V1dOb0hQUVI4cFdWODdnci9CS0U1eVJaN3dUR1dVd0RYK2pkY2YzZlBmam1wRmloRWxUNkxTT2ZXaDhuS2I0d2pneURTTnM1Q0hQQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5OTkzMzI0CWZpbGU6QXV0b3NlbmRBcHBfMS4yLjZfeDY0X2VuLVVTLm1zaS56aXAKdGxwa1JDWG9rRjJuSkpFK0pSMDArNnIrTnB4ZGdMYXNLL21hTXNCdGI2K05CelRJaFRkSWNRazMzSC8zNVZLY29KUmNPMmZiQk9sUjYvOGYrdHMvQ2c9PQo=",
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjV1NGtwb2xuUjFtRXJUdWdrUW9FaEh6YVU2Wm9mTDE1aVI1bUZseUpPUXc0dDl0NDROeXBJek92L3BYWmxYYjBISjhKYzB1SEF3eTJTcVFsN3F1aVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MjU5ODU5CWZpbGU6UHJvcGVydHlBcHBfMS40LjlfeDY0X2VuLVVTLm1zaS56aXAKTHNqV1V4R2NhamVzb0d1bURLSGI0K1d6a1Foam1tWUtVM2kzUnRzdlBmYVJ1TzYxUmRFWkoxQ1RBRXJBV1IzN2YreDNUT2dvbDhEWUNLb09aUTR0RFE9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/PropertyApp_1.4.9_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjBmVW9ydE4wSWgzVmRjMWpRQ2dGUDRmNjY4M0s3K2tqamtTQW5tM3dJNlBIYWMzMEQ4MXpEVVgvTDRsMFM4d0QvTy9La3p6Q1dCRjBOSzk3cVNsR1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5Mjk2NjQwCWZpbGU6UHJvcGVydHlBcHBfMS41LjBfeDY0X2VuLVVTLm1zaS56aXAKM3poNitmSXlJMmh3d09LeXUyeDI2aUhKUk5aMU9mRjdNb211NVl3ZFRvelFEMFl1TWJQUVZqcTEvVHpHeWx4MFFlNUNsMkFVQzllbFVGVTlvdnE4QVE9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/PropertyApp_1.5.0_x64_en-US.msi.zip"
       }
     }
   }
