@@ -1,6 +1,6 @@
 {
-    "version": "v1.5.2",
-    "notes": "- Информация в Discord канале \"Новости\".",
+    "version": "v1.5.3",
+    "notes": "- Исправление ошибок.",
     "pub_date": "2025-10-01T10:00:00Z",
     "platforms": {
       "darwin-x86_64": {
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRnppWmpXdzBCeFlvUUFiZ29GQWNNV3E2QUZ3NUhiOVc0eW9GcHIxcDluWndVSUdyTCtTUmZYYzNBNVVYemQrTTJ5aUVxTFZmTllid2xWYVlJeUk4R2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MzA5NTkwCWZpbGU6UHJvcGVydHlBcHBfMS41LjJfeDY0X2VuLVVTLm1zaS56aXAKejgrVzM0KzBVaXZMWTI2aUkvUU5qbmY2WkdWT2tLczd3NFR3WTRxc0VYTk5YS1dyNUFvc0Z5ODBsTCtlTGlCN2E2bitVQkpjNGp2QjlHNHZoSmtOREE9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/PropertyApp_1.5.2_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjlONHlVYVY3NzV5bkFUNUt2TTVSWDh3dmpiYTI4b1RKbzFGTWNyaXc4RXBQZWoyQ2hCZTZKU1B4ZVRDLzJObCtQKy9iOVRnWjlrU1QwaW5Eb1BCS3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MzExOTIwCWZpbGU6UHJvcGVydHlBcHBfMS41LjNfeDY0X2VuLVVTLm1zaS56aXAKODJ3aFBDWGhjVHE0cTl0NG9QNnk1TUJGeEJIeE5ReVk5WlFxUnB3dkdRTTVkbHhOSUQ5RTh4cFBScXU5cUpxS3plbk91a1p0ZC9OanNKTXJra0dpQ0E9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/PropertyApp_1.5.3_x64_en-US.msi.zip"
       }
     }
   }
