@@ -1,7 +1,7 @@
 {
-    "version": "v1.5.4",
-    "notes": "- Исправление ошибок.",
-    "pub_date": "2025-10-01T10:00:00Z",
+    "version": "v1.5.5",
+    "notes": "- Исправлено добавление картинок в инвентаре.",
+    "pub_date": "2025-10-02T10:00:00Z",
     "platforms": {
       "darwin-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjNNYTRLb2w1V1dOb0hQUVI4cFdWODdnci9CS0U1eVJaN3dUR1dVd0RYK2pkY2YzZlBmam1wRmloRWxUNkxTT2ZXaDhuS2I0d2pneURTTnM1Q0hQQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5OTkzMzI0CWZpbGU6QXV0b3NlbmRBcHBfMS4yLjZfeDY0X2VuLVVTLm1zaS56aXAKdGxwa1JDWG9rRjJuSkpFK0pSMDArNnIrTnB4ZGdMYXNLL21hTXNCdGI2K05CelRJaFRkSWNRazMzSC8zNVZLY29KUmNPMmZiQk9sUjYvOGYrdHMvQ2c9PQo=",
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRjNnUGJHV3B2Y3VEUjg1WWFOWEM2a2IrYVdiaU5UNElBbndlZ2gzTGxsWUJwZnloRkozakRZQlZ4NkZ4U1JMcE9yOTJPeG1YWEUvNE9kWlkvbVRidndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MzMwMTEwCWZpbGU6UHJvcGVydHlBcHBfMS41LjRfeDY0X2VuLVVTLm1zaS56aXAKUVZjalFNdnc5TVVxd1JyMVdLaVMyeG1vaHNDMllqYmo0cDhoZk5SUEJuSktpT3pMUStVZ2RNdWZsZm40a3VHbVhtZzdUVUtWTzF0OHlSZzRSTlJxQ2c9PQo=",
-        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/PropertyApp_1.5.4_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFZwYWdqVUdNRnl3UWxzeVptSDdOM3pGSjlDQ3IzVVh0NG5vaTk1Y045Q0N0Qm9lZndBeElZMzAzT2lscXlNR29Gc1oxUnhaL0JMQjFQbXlWc0o4RW5zUzl6aHFFRFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MzkzNzg3CWZpbGU6UHJvcGVydHlBcHBfMS41LjVfeDY0X2VuLVVTLm1zaS56aXAKOFVONm16eEd0d0dqQ3hqS1V4ZWVJUzZ1MFh1ZlJZRUgrZy9GWUtPNHplSGlzc3h5b2xiYS9KbVVXQS82Q21Ec3FzUkpTcnlsb3hnT08xanVZNVBXRFE9PQo=",
+        "url": "https://github.com/Puxlozadiy/Puxlozadiy-s-Softwares/raw/main/release/RentcarsApp/windows/PropertyApp_1.5.5_x64_en-US.msi.zip"
       }
     }
   }
